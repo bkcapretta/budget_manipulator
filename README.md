@@ -2,13 +2,13 @@
 By: Bianca Capretta
 
 # Purpose
-I created an interface on Google Spreadsheets to handle a lab's budget and 
-coded its implementation using Google Apps' script editor tool. This 
+I created an interface on Google Spreadsheets to handle a multi-faceted budget and 
+coded its implementation using Google Apps' script editor. This 
 implementation allows a user to manipulate the data (the budget, percent effort 
 allocated per month, money allocated per month, money allocated semi-monthly, etc)
-in one cell and immediately update the data in the rest of the cells.
+in one cell and have it immediately update the data in the rest of the spreadsheet.
 
-A specific office on Tufts University's campus with many grants per summer asked
+A specific office on Tufts University's campus with many grants each summer asked
 me to put together this tool to make their lives a bit easier (because doing 
 this task on paper wasn't the most efficient method).
 
@@ -24,5 +24,6 @@ to spend more than $4,500 on the Interlace Project, then I can edit that cell
 to $5,000, and every other cell on the spreadsheet will change accordingly.
 Less money will be left for the other projects so it will need to be taken
 out from their individual budget's. When taking money away from other projects,
-the algorithm takes more from the bigger projects. When adding money to the other
-projects, the bigger grants are prioritized to get more money back.
+the algorithm favors the small projects by taking more from the bigger projects. 
+When adding money to the other projects, the bigger grants are prioritized to 
+get more money back.
