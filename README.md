@@ -15,13 +15,13 @@ this task on paper wasn't the most efficient method).
 Link to Spreadsheet: https://docs.google.com/spreadsheets/d/1qVG3xqOvEDnbB6sZWrl_2uIxxsNrE8mV3prYlwbaaRs/edit?usp=sharing
 
 # Example 
-Let's say I have $30,000 budgeted for the summer and four grants during 
+Let's say I have \$30,000 budgeted for the summer and four grants during 
 that block of time (Lego Project, Summer Workshops, Interlace Project, and STOMP).
 I want to allocate 20%, 30%, 15%, and 35% of my resources respectively. First, 
-this sheet will immediately calculate the corresponding monthly rate ($) and
-semi-monthly rate. If I want to adjust the numbers a bit and decide that I'd like
-to spend more than $4,500 on the Interlace Project, then I can edit that cell
-to $5,000, and every other cell on the spreadsheet will change accordingly.
+this sheet will immediately calculate the corresponding monthly rate and
+semi-monthly rate in dollars. If I want to adjust the numbers and decide that I'd like
+to spend more than \$4,500 on the Interlace Project, then I can edit that cell
+to \$5,000, and every other cell on the spreadsheet will change accordingly.
 Less money will be left for the other projects so it will need to be taken
 out from their individual budget's. When taking money away from other projects,
 the algorithm favors the small projects by taking more from the bigger projects. 
